@@ -3,7 +3,7 @@
 # Hi there, I'm [Somen Samanta](https://www.linkedin.com/in/somensamantacse/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rype07h8d7sro4wqu8sv4j0rr5lgrvb7uoeupgkp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **building my skills in DSA**
 
