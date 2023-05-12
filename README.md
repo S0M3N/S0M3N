@@ -2,7 +2,8 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 # Hi there, I'm [Somen Samanta](https://www.linkedin.com/in/somensamantacse/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-<h3 align="center">A passionate programmer from India</h3>
+As a dedicated Computer Science engineering student, I am continuously refining my expertise in software development and actively seeking out innovative technologies. My ardor lies in the realm of Linux, particularly in utilizing command lines, which I consider to be my forte.
+
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rype07h8d7sro4wqu8sv4j0rr5lgrvb7uoeupgkp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **building my skills in DSA**
@@ -24,7 +25,34 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/yorboisam)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+ ### `I am open to`:
+
+
+- any collobration work,
+- software development internships, and
+- research internships
+
+<details>
+   <summary>📃 Resume</summary>
+
+ ## Education
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
+   📖**Bachelor's of technology-< Computer Science and Engineering >**
+ 
+ - 📍 **Angels' Academy Sr. Sec. School, Haridwar**------------------**< 2020-2021 >**\
+   📖**Senior Secondary Schooling-< Intermediate Science >**
+ 
+ - 📍 **Angels' Academy Sr. Sec. School, Haridwar**------------------**< 2018-2018 >**\
+   📖**Secondary Schooling**
+    
+ ## Experience
+  -  👨‍💻 **Satellite Communications Internship**---------------------------< Internship >\
+    📆 July,2022 - august, 2022\
+    📍 **IndoplanetX Space Vault and Research** - Roorkee, Uttarakhand, India
+    
+   </details>
+    
+### `Languages and Tools:`
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <br/>
