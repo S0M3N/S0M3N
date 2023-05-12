@@ -4,6 +4,9 @@
 
 As a dedicated Computer Science engineering student, I am continuously refining my expertise in software development and actively seeking out innovative technologies. My ardor lies in the realm of Linux, particularly in utilizing command lines, which I consider to be my forte.
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s0m3n&label=Profile%20views&color=32CD32&style=flat" alt="s0m3n" /> </p>
+
 <img align="right" alt="Coding" width="400" style="padding-bottom:20px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rype07h8d7sro4wqu8sv4j0rr5lgrvb7uoeupgkp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **building my skills in DSA**
