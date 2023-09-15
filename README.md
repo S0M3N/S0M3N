@@ -25,7 +25,8 @@ As a dedicated Computer Science engineering student, I am continuously refining 
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/s0m3n/) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/somensamantacse/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/yorboisam)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/
+kuro_coder_sam)
 </p>
 
  ### `I am open to`:
