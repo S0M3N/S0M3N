@@ -11,13 +11,13 @@ As a dedicated Computer Science engineering student, I am continuously refining 
 
 - 🔭 I’m currently working on **building my skills in DSA**
 
-- 🌱 I’m currently learning **Java and Data Structures**
+- 🌱 I’m currently learning **Cloud Computing and Server Management**
 
-- 💬 Ask me about **Python, C**
+- 💬 Ask me about **C, C++, Python**
 
 - 📫 How to reach me **thesomen123@gmail.com**
 
-- 🌎 My Portfolio <a href="https://developedbysam.in/">DevelopedBySam</a>
+- ❤️ Love to work on **Linux**
 
 ### `Connect with me` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">:
 
